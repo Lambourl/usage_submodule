@@ -1,0 +1,3 @@
+[submodule "example_of_submodule"]
+	path = example_of_submodule
+	url = https://github.com/Lambourl/example_of_submodule.git
